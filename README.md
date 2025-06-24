@@ -4,7 +4,7 @@ This repository implements the SING method for variational inference in latent S
 
 **SING: SDE Inference via Natural Gradients**\
 Amber Hu*, Henry Smith*, Scott W. Linderman\
-(*Equal contribution.)
+(*Equal contribution)
 
 A preprint is available on [arXiv](https://arxiv.org/abs/2506.17796).
 

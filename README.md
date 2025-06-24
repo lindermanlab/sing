@@ -6,7 +6,7 @@ This repository implements the SING method for variational inference in latent S
 Amber Hu*, Henry Smith*, Scott W. Linderman\
 (*Equal contribution.)
 
-A preprint will be available soon! 
+A preprint is available on [arXiv](https://arxiv.org/abs/2506.17796).
 
 SING is a method for fast and reliable variational inference in *latent SDE models*, which are used to uncover unobserved dynamical systems from noisy data. To do this, SING leverages natural gradient variational inference, which adapts updates to the geometry of the variational distribution and prior. This leads to faster convergence and greater stability during inference than previous methods, which in turn enables more accurate parameter learning and use of flexible priors. 
 
